@@ -1,4 +1,7 @@
-body{
-    background-image: url(imgs/textura.jpg);
-    background-repeat: repeat;
+.space{
+    background-image:url(imgs/linux.png), url(imgs/textura.jpg);
+    background-repeat: no-repeat, repeat;
+    background-position: center, left top;
+    background-size: 20% 25%;
+    height: 500px;
 }

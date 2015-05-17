@@ -1,7 +1,16 @@
-@charset "utf-8";
-/* CSS Document */
-
-body{
-    background-color:#000000;
-    color:#FFFFFF;
+h1, h2{
+    color: #990000;
+    text-decoration: underline;
+}
+p{
+    color: #333333;
+}
+.instructor{
+    color: #006699;
+}
+#piePagina{
+    color: #093;
+}
+nav ul li{
+    color: #3333CC;
 }

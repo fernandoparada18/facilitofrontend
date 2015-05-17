@@ -1,0 +1,14 @@
+#contenido{
+    width: 800px;
+    margin: 0 auto;
+    background-color: #003399;
+    height: 1000px;
+}
+.div_prueba{
+    background-color: #333333;
+    height: 100px;
+    width: 300px;
+    position: fixed; /*absolute se muebe con el scroll*/
+    top: -10px;
+    left: -10px;
+}

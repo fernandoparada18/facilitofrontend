@@ -1,0 +1,12 @@
+@font-face{
+    font-family: "Digital";
+    src:url(fonts/dited.ttf), url(fonts/dited.eot), url(fonts/dited.otf);
+}
+.parrafo-personalizado{
+    font-family: "Digital";
+    font-size: 50px;
+}
+.parrafo-googlefonts{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
